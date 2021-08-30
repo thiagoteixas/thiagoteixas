@@ -14,6 +14,9 @@ Olá, sou **Thiago Teixeira**, um estudante de Ciência da Computação nascido 
 - ♟️ Sou apaixonado por xadrez, quem quiser me encontrar no chess.com, esse é meu user: https://www.chess.com/member/grandudi
 - 📫 Por favor, envie um email para **thiagoteixas@gmail.com** para me encontrar.
 
+[![thiagoteixas's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagoteixas)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **thiagoteixas/thiagoteixas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
