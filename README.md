@@ -39,10 +39,10 @@ Olá, sou **Thiago Teixeira**, um estudante de Ciência da Computação nascido 
 ## Minhas Redes Sociais
 <div>
   <a style="margin-right: 15px;" href="mailto:thiagoteixas@gmail.com" target="_blank">
-    <img width="64px" alt="gmail" src="./images/gmail.png" />
+    <img width="64px" alt="gmail" src="./Images/gmail.png" />
   </a>
   <a style="margin-right: 15px;" href="https://www.linkedin.com/in/thiagotoliveira/" target="_blank">
-    <img width="64px" alt="linkedIn" src="./images/linkedin.png" />
+    <img width="64px" alt="linkedIn" src="./Images/linkedin.png" />
   </a>
 </div>
 
