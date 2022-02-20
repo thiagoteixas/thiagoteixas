@@ -37,7 +37,6 @@ Olá, sou **Thiago Teixeira**, um estudante de Ciência da Computação nascido 
 </div>
 
 ## Minhas Redes Sociais
-<!--
 <div>
   <a style="margin-right: 15px;" href="mailto:thiagoteixas@gmail.com" target="_blank">
     <img width="64px" alt="gmail" src="./images/gmail.png" />
@@ -46,7 +45,6 @@ Olá, sou **Thiago Teixeira**, um estudante de Ciência da Computação nascido 
     <img width="64px" alt="linkedIn" src="./images/linkedin.png" />
   </a>
 </div>
--->
 
 <!--
 **thiagoteixas/thiagoteixas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
