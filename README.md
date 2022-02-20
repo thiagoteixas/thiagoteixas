@@ -1,8 +1,3 @@
-<a href="www.linkedin.com/in/thiagotoliveira" target="_blank">
-  <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
-</a>
-
-
 ### Bem-vindos ao meu GitHub! 👋
 
 Olá, sou **Thiago Teixeira**, um estudante de Ciência da Computação nascido em Belo Horizonte, MG, Brasil 🇧🇷. Atualmente sou estudante da Trybe.
