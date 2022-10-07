@@ -1,6 +1,6 @@
 ### Bem-vindos ao meu GitHub! 👋
 
-Olá, sou **Thiago Teixeira**, um estudante de Ciência da Computação nascido em Belo Horizonte, MG, Brasil 🇧🇷. Atualmente sou estudante da Trybe.
+Olá, sou **Thiago Teixeira**, um estudante de Ciência da Computação nascido em Belo Horizonte, MG, Brasil 🇧🇷.
 
 
 **Um Pouco sobre meus interesses pessoais**
