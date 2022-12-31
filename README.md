@@ -5,7 +5,7 @@ Olá, sou **Thiago Teixeira**, um estudante de Ciência da Computação nascido 
 
 **Um Pouco sobre meus interesses pessoais**
 
-- Atualmente estou estudando TypeScript com a Trybe.
+- Sou formado em Desenvolvimento Web pela Trybe.
 - ♟️ Sou apaixonado por xadrez, quem quiser me encontrar no chess.com, esse é meu user: https://www.chess.com/member/grandudi
 - 📫 Por favor, envie um email para **thiagoteixas@gmail.com** para me encontrar.
 
